@@ -15,9 +15,10 @@ This is a simple Python script that uses the `rembg` library to remove the backg
 4. The script will remove the background from the input image and save the result in the specified output directory.
 
 ## Example
-
+Input Image --puppy.jpg
 ![Input Image](puppy.jpg)
 
+Output Image --puppy_img.png
 ![Output Image](puppy_img.png)
 
 ## Dependencies
