@@ -16,9 +16,9 @@ This is a simple Python script that uses the `rembg` library to remove the backg
 
 ## Example
 
-![Input Image](input_image.jpg)
+![Input Image](puppy.jpg)
 
-![Output Image](output_image.png)
+![Output Image](puppy_img.png)
 
 ## Dependencies
 
